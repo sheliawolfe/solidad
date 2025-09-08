@@ -7,4 +7,4 @@ stacking
 NAMING
 pygame
 rules
-WIP: auto complete
+WIP: auto complete + undo
