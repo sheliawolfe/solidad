@@ -397,7 +397,7 @@ def main():
 
                 # then pick up from aces (allow moving back single cards if needed)
                 if not picked:
-                    for f in aces:
+                    for f in foundation:
                         if f.cards and f.top().rect().collidepoint(mx, my):
                             c = f.top()
                             moving = f.remove_from(c)
@@ -510,3 +510,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+## add undo -- only track last move, only undo last move
+## add auto compelete -- fml
+## figure out draw 3 -- + add game options??
