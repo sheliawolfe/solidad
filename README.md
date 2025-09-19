@@ -1,10 +1,10 @@
-# solidad
-solitaire game for pops's birthday, base code from coding faculty
+# Solitaire Game
 
-drag logic
-draw logic
-stacking
-NAMING
-pygame
-rules
-WIP: auto complete + undo
+Local desktop application for a basic Solitaire game (base code from Coding Faculty).<br>
+Learned python logic for drawing and overlapping cards, dealing cards and stacking piles.<br>
+Practiced drag logic, gradient background and layout styling.<br>
+-----------------------------------------------------------------<br>
+TODO:<br>
+-deal 3 cards at once
+-auto-complete
+-on click card placement/"drag"
